@@ -8,6 +8,7 @@ console.log('***** Object Practice *****')
   - Give it  a numeric 'shoeCount' property
   - Also give it an array 'favThreeFoods'
 */
+
 const me = {
   // TODO - add properties here
 firstName : 'Ahmed',
@@ -15,7 +16,6 @@ lastName : 'Wako',
 hasSiblings : true,
 shoeCount: 7,
 favThreeFoods: ['Gyro', 'Salman', 'Veggies']
-
 };
 
 console.log('A little about me:', me);
@@ -52,8 +52,6 @@ console.log(`Last meal that i always can't go wrong with is: ${me.favThreeFoods[
 console.log('The current count of my shoes is', me.shoeCount);
 me.shoeCount++
 console.log('The updated count of my shoes is', me.shoeCount);
-
-
 
 /* 5. Add a new property to an existing object.
   - Add a 'favoriteColor' to your existing object
