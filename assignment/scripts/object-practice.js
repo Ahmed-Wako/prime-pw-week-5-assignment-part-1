@@ -40,7 +40,7 @@ console.log(fullName);
 */
 
 console.log(`My go to 1st meal is ${me.favThreeFoods[1]}`);
-
+console.log(`Last meal that i always can't go wrong with is: ${me.favThreeFoods[2]}`);
 
 /* 4. Change a property of an existing object.
   - Console.log your current shoe count.
